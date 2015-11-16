@@ -6,3 +6,4 @@ My stupid boss still prefers SVN.
 1234565
 Creating a new branch is quick and simple.
 8888888888888
+fix bug 102
